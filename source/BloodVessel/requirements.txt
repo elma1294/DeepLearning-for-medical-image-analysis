@@ -1,0 +1,7 @@
+keras
+h5py
+numpy = 1.23.5 
+Pillow
+matplotlib
+opencv
+Scikit-learn

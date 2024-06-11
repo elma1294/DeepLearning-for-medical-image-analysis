@@ -1,0 +1,6 @@
+kernel_initializer = he_normal  glorot_uniform
+Activation Funktion = relu  swish
+Optimizer = Adam  Gradient Descent(SGD)
+Learnrate = 1e-4  0.001
+Loss = binary_crossentropy  mean_squared_error
+Architektur von Netz bleibt gleich 
